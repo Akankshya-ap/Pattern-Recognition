@@ -1,1 +1,1 @@
-Practicing statiscal methods and probability.
+Practicing statistical methods and probability.
