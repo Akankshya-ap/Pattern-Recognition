@@ -1,8 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas
-#from sklearn.datasets import make_classifiaction
-#from sklearn.dtatsets import make_blobs
 
 ds=pandas.read_csv('C:/Users/Akankshya/Desktop/pattern recog/pyt/vowe.csv')
 
